@@ -7,6 +7,6 @@ Game website:https://play.google.com/store/apps/details?id=qqapp.cocos2dx.math24
 You have four number. And than you have to use +-*/ to caculate the four number equal 24.
 
 # Example
-Original Number --> 3,8,3,8
+Original Number --> 5,2,4,7
 
-Answer --> 8/(3-(8/3))=24
+Answer --> 4*(5+7)/2=24
